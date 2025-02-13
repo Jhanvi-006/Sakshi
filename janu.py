@@ -7,4 +7,5 @@ C= 6
         print(f"B is greater number")
     else:
         print(f" C is greater number")
+     print("The above code is for finding greatest number among three number")
         
